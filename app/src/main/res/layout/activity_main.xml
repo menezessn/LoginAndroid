@@ -22,17 +22,19 @@
 
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Usuário:"
+        android:text="@string/usuario"
         android:layout_margin="10dp"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"/>
+        android:layout_margin="10dp"
+        android:hint="@string/digite_o_seu_usuario"/>
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Senha:"
+        android:text="@string/senha"
         android:layout_margin="10dp"
         />
 
@@ -40,19 +42,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
+        android:hint="@string/digite_a_sua_senha"
         />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Entrar"
+        android:text="@string/entrar"
         android:layout_margin="10dp"
         />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Esqueci a senha"
+        android:text="@string/esqueci_a_senha"
         android:layout_margin="10dp"
         android:gravity="right"
 

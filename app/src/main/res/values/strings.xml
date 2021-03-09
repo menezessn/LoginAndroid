@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="digite_o_seu_usuario">Digite o seu usuário</string>
+    <string name="usuario">Usuário:</string>
+    <string name="senha">Senha:</string>
+    <string name="digite_a_sua_senha">Digite a sua senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="esqueci_a_senha">Esqueci a senha</string>
 </resources>
