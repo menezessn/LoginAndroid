@@ -25,11 +25,14 @@
         android:text="@string/usuario"
         android:layout_margin="10dp"/>
 
+
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:hint="@string/digite_o_seu_usuario"/>
+
+
 
     <TextView
         android:layout_width="match_parent"
@@ -60,6 +63,9 @@
         android:gravity="right"
 
         />
+
+
+
 
 
 
